@@ -73,8 +73,8 @@ Data Analysis Using Power BI
 
 ### 🖼️ Screenshots
 
-![Key Insights](screenshots/key-insights.png)
-![Performance Insights](screenshots/performance-insights.png)
-![Profit Analysis](screenshots/profit-analysis.png)
+![Key Insights](screenshorts/key-insights.png)
+![Performance Insights](screenshorts/performance-insights.png)
+![Profit Analysis](screenshorts/profit-analysis.png)
 
 
